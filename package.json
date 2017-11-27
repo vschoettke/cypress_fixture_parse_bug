@@ -1,0 +1,22 @@
+{
+  "name": "cypress_fixture_parse_bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vschoettke/cypress_fixture_parse_bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vschoettke/cypress_fixture_parse_bug/issues"
+  },
+  "homepage": "https://github.com/vschoettke/cypress_fixture_parse_bug#readme",
+  "devDependencies": {
+    "cypress": "^1.1.2"
+  }
+}
